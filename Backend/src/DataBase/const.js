@@ -1,3 +1,3 @@
-const DB_NAME="Profile"
+// const DB_NAME="Profile"
 
-export default DB_NAME
+// export default DB_NAME
